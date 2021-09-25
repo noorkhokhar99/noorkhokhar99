@@ -1,4 +1,6 @@
 ### Hi there 👋
+* Graduate Student at Federal Urdu University of Arts, Sciences & Technology.
+
 
 <!--
 **noorkhokhar99/noorkhokhar99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
