@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Noor Khokhar
+# Noor Khokhar
 * Graduate Student at Federal Urdu University of Arts, Sciences & Technology.
 
 
