@@ -7,7 +7,7 @@
 * Graduate Student at Federal Urdu University of Arts, Sciences & Technology.
 <div align="center">
   <p>
-    <a href="https://ultralytics.com/yolov8" target="_blank">
+    <a href="https://www.youtube.com/channel/UCyB_7yHs7y8u9rONDSXgkCg?view_as=subscriber" target="_blank">
       <img width="100%" src="https://github.com/pyresearch/pyresearch/blob/main/pyresearch.jpeg"></a>
   </p>
     
