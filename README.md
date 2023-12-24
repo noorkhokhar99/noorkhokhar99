@@ -8,7 +8,7 @@
 <div align="center">
   <p>
     <a href="https://www.youtube.com/channel/UCyB_7yHs7y8u9rONDSXgkCg?view_as=subscriber" target="_blank">
-      <img width="100%" src="https://github.com/pyresearch/pyresearch/blob/main/pyresearch.jpeg"></a>
+      <img width="100%" src="https://github.com/pyresearch/pyresearch/blob/main/ai.png"></a>
   </p>
     
 
