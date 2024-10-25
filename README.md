@@ -35,6 +35,6 @@
 
    <!-- Sponsor Icon -->
    <a href="https://github.com/sponsors/pyresearch" style="text-decoration:none;">
-      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="2%" alt="Sponsor" />
+      <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="3%" alt="Sponsor" />
    </a>
 </div>
