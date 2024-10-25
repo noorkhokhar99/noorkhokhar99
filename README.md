@@ -26,9 +26,14 @@
         <a href="https://www.quora.com/profile/Pyresearch">Quora</a>
     </p>
     
+    <h4>Support Us:</h4>
     <div align="center">
-        <iframe src="https://github.com/sponsors/pyresearch/card" title="Sponsor pyresearch" height="225" width="600" style="border: 0;"></iframe>
-        <iframe src="https://github.com/sponsors/pyresearch/button" title="Sponsor pyresearch" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+        <a href="https://github.com/sponsors/pyresearch" target="_blank">
+            <img src="https://img.shields.io/badge/Sponsor%20pyresearch-ff69b4?style=for-the-badge&logo=github" alt="Sponsor pyresearch" />
+        </a>
+        <a href="https://github.com/sponsors/pyresearch" target="_blank">
+            <img src="https://img.shields.io/badge/Sponsor%20pyresearch%20with%20a%20Button-ff69b4?style=for-the-badge&logo=github" alt="Sponsor pyresearch Button" />
+        </a>
     </div>
 </div>
 
