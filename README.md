@@ -11,6 +11,7 @@
             <img width="100%" src="https://github.com/pyresearch/pyresearch/blob/main/ai.png" alt="PyResearch"></a>
     </p>
     
+    <h4>Connect with Me:</h4>
     <p>
         <a href="https://www.youtube.com/channel/UCyB_7yHs7y8u9rONDSXgkCg/join">Channel Membership</a> |
         <a href="https://www.facebook.com/Pyresearch">Facebook</a> |
